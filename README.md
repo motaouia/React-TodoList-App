@@ -6,7 +6,7 @@ JSX, Props and State ,....
 I Followed the link above: 
 https://jinalshah999.medium.com/reactjs-step-by-step-tutorial-series-part-4-build-todo-application-using-reactjs-ab219c9b3608
 
-We use Boostrao and Fontawsome to style the app
+We use Boostra and Fontawsome to style the app
 
 ############################################################
 # Getting Started with Create React App
